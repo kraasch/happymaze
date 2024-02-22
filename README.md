@@ -18,12 +18,21 @@ The first person perspective into the maze.
 
 ## Tasks
 
-   - [ ] re-write in Rust (?).
+To do:
+
    - [ ] sidewards steps .
    - [ ] collision detection (hit walls) .
    - [ ] network multiplayer (client-side hosted).
    - [ ] shooting .
    - [ ] automated maze generation .
+
+More to do:
+
+   - [ ] re-write in Rust (?).
+   - [ ] give depth perception of walls with color gradient.
+
+Done:
+
    - [X] vertical lines in walls for orientation .
 
 ## Meta
@@ -47,3 +56,4 @@ Further reading:
    - https://stackoverflow.com/questions/1727881/how-to-use-the-pi-constant-in-c#1727896 .
    - https://youtu.be/xW8skO7MFYw (Code-It-Yourself! First Person Shooter, Quick and Simple C++) .
    - https://youtu.be/BSb87DC-PtA (RetroAhoy: Wolfenstein 3D) .
+
